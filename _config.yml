@@ -1,5 +1,5 @@
 # Site settings
-title: 例外
+title: liwai
 SEOTitle: Arvin 的博客 | 例外
 header-img: img/post-bg-desk.jpg
 email: arvinzhoupm@gmail.com
@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: 
 
 # Gitalk
 gitalk:
@@ -100,14 +100,5 @@ friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
